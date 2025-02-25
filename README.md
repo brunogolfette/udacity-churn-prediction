@@ -19,7 +19,7 @@ To run this project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://yourrepository.git
+   git clone [https://yourrepository.git](https://github.com/brunogolfette/udacity-churn-prediction.git)
 
 To run this project, you need to have Python installed on your system. The project is built using Python 3.7+. You also need several dependencies which can be installed via pip:
 
