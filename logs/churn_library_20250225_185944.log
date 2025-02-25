@@ -1,0 +1,6 @@
+2025-02-25 18:59:44,079 - root - INFO - Testing import_data: SUCCESS
+2025-02-25 18:59:45,557 - root - INFO - Testing perform_eda: SUCCESS
+2025-02-25 18:59:45,592 - root - INFO - Testing encoder_helper: SUCCESS
+2025-02-25 18:59:45,597 - root - INFO - Testing perform_feature_engineering: SUCCESS
+2025-02-25 19:00:19,335 - root - INFO - Testing train_models: SUCCESS
+2025-02-25 19:00:19,335 - root - INFO - All tests passed successfully!
