@@ -29,25 +29,23 @@ You need to have Python 3.7 or higher installed on your system. You can download
 
 Clone the repository to your local machine by running the following command in your terminal or command prompt:
 
-```bash
 git clone https://github.com/brunogolfette/udacity-churn-prediction.git
 cd udacity-churn-prediction
 
-Installing Dependencies
+### Installing Dependencies
 Install the necessary Python dependencies by running:
 pip install -r requirements.txt
 
-Running the Tests
+### Running the Tests
 To execute the tests and verify the functionality, run the testing script from the project directory:
 python churn_script_logging_and_tests.py
 
-
-Usage
+### Usage
 To use the churn prediction functionalities in your projects or scripts, ensure you import the necessary functions from the churn library:
 from churn_library import perform_eda, encoder_helper, perform_feature_engineering, train_models
 
-Contributing
+### Contributing
 Contributions are welcome, and any improvements or suggestions are appreciated. Please fork the repository and submit a pull request with your changes.
 
-License
+### License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
